@@ -31,5 +31,5 @@ Der Code darf frei verwendet und verändert werden (public domain, CC0).
 [1] Altersspezifische Mortalitätsrate:
 
 $$
-\frac{\text{Absolute Sterbefälle einer Altersgruppe}}{\text{Populationsgröße dieser Altersgruppe}} \cdot 100\,000
+\frac{\text{Absolute Sterbefälle einer Altersgruppe}}{\text{Populationsgröße dieser Altersgruppe}} \cdot 100~000
 $$
